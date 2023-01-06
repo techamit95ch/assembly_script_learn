@@ -1,0 +1,22 @@
+{
+  "name": "assembly_script_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techamit95ch/assembly_script_learn.git"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techamit95ch/assembly_script_learn/issues"
+  },
+  "homepage": "https://github.com/techamit95ch/assembly_script_learn#readme",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
