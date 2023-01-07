@@ -18,5 +18,9 @@
   "homepage": "https://github.com/techamit95ch/assembly_script_learn#readme",
   "devDependencies": {
     "near-sdk-as": "^3.2.3"
+  },
+  "dependencies": {
+    "assemblyscript": "^0.26.0",
+    "near-cli": "^3.4.2"
   }
 }
